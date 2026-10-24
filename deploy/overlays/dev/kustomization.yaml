@@ -8,7 +8,7 @@ resources:
   - ../../base/batch
 images:
   - name: ghcr.io/khkim6040/demo-c-contract/api
-    newTag: 0.1.0
+    newTag: 1.1.0
   - name: ghcr.io/khkim6040/demo-c-contract/admin
     newTag: 0.1.0
   - name: ghcr.io/khkim6040/demo-c-contract/consumer
