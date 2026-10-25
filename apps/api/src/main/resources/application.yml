@@ -1,6 +1,9 @@
 spring:
   application:
     name: api
+  http:
+    clients:
+      read-timeout: 3s
 server:
   port: 8080
 external:
